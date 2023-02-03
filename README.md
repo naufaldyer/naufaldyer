@@ -1,6 +1,20 @@
 # DYER IS IN THE HOUSE YO !
 ---
+<p align="center">
 ![](https://media.giphy.com/media/l4Ep3mmmj7Bw3adWw/giphy.gif)
+</p>
+
+<h3> Contact me if you have same interesting or some questions! </h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/sultan-syach-a894a5215" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="https://www.kaggle.com/sultan7" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>  
+  <a href="mailto:sultansyach7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
+  <a href="https://www.facebook.com/sultan.ynl" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>  
+  <a href="https://wa.me/628979619605" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> 
+  <a href="https://discord.gg/user/TAN#1846" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
+</p>
+
 <!--
 **naufaldyer/naufaldyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
