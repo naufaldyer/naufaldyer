@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/l4Ep3mmmj7Bw3adWw/giphy.gif"> 
 </p>
 <video controls autoplay>
-  <source = 
+  <source src = 
           "https://www.youtube.com/watch?v=LTJU9YWfmFU"
           type="video/mp4">
-  </video>
+</video>
           
 
 <h3> Contact me if you have same interesting or some questions! </h3>
