@@ -1,12 +1,12 @@
 # DYER IS IN THE HOUSE YO !
 ---
 <p align="center">
-![](https://media.giphy.com/media/l4Ep3mmmj7Bw3adWw/giphy.gif)
+  <img src="https://media.giphy.com/media/l4Ep3mmmj7Bw3adWw/giphy.gif"> 
 </p>
 
 <h3> Contact me if you have same interesting or some questions! </h3>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/sultan-syach-a894a5215" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
   <a href="https://www.kaggle.com/sultan7" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white"/></a>  
   <a href="mailto:sultansyach7@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
