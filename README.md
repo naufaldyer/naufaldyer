@@ -1,6 +1,6 @@
-### DYER IS IN THE HOUSE YO!
+# DYER IS IN THE HOUSE YO !
 ---
-
+![](https://media.giphy.com/media/l4Ep3mmmj7Bw3adWw/giphy.gif)
 <!--
 **naufaldyer/naufaldyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
