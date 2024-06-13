@@ -1,10 +1,11 @@
 # DYER IS IN THE HOUSE YO !
 ---
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/l4Ep3mmmj7Bw3adWw/giphy.gif"> 
 </p>
-          
-<h3> Contact me if you have same interesting or some questions! </h3>
+           -->
+<h3> Im not choose to be a Data Engineer , but Data Engineer choose Me! <h3> 
+<h3>Contact me if you have same interesting or some questions! </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naufaldyer/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>   
