@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/l4Ep3mmmj7Bw3adWw/giphy.gif"> 
 </p>
            -->
-<h3> Im not choose to be a Data Engineer , but Data Engineer choose Me! <h3> 
+<h3> Im didn't choose to be a Data Engineer , but Data Engineer chose Me! <h3> 
 <h3>Contact me if you have same interesting or some questions! </h3>
 
 <p align="center">
